@@ -53,6 +53,10 @@ pip install mysql-connector-python
 
 python main.py
 
+---
+
+## Output Screenshot
+![Output](Screenshot.png)
 
 ---
 
