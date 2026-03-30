@@ -40,7 +40,7 @@ VMS/
 
 ---
 
-## ⚙️ Setup Instructions
+## ⚙️ How to Run
 
 1. Install dependencies:
 
